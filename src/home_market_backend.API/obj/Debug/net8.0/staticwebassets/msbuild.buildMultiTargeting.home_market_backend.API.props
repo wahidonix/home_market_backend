@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/home_market_backend.API.props" />
+</Project>

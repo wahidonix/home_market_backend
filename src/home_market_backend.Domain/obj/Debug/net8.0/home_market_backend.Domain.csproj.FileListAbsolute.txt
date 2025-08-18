@@ -1,0 +1,12 @@
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/bin/Debug/net8.0/home_market_backend.Domain.deps.json
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/bin/Debug/net8.0/home_market_backend.Domain.dll
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/bin/Debug/net8.0/home_market_backend.Domain.pdb
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/obj/Debug/net8.0/home_market_backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/obj/Debug/net8.0/home_market_backend.Domain.AssemblyInfoInputs.cache
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/obj/Debug/net8.0/home_market_backend.Domain.AssemblyInfo.cs
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/obj/Debug/net8.0/home_market_backend.Domain.csproj.CoreCompileInputs.cache
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/obj/Debug/net8.0/home_market_backend.Domain.sourcelink.json
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/obj/Debug/net8.0/home_market_backend.Domain.dll
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/obj/Debug/net8.0/refint/home_market_backend.Domain.dll
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/obj/Debug/net8.0/home_market_backend.Domain.pdb
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Domain/obj/Debug/net8.0/ref/home_market_backend.Domain.dll
