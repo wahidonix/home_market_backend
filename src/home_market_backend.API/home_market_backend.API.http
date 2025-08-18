@@ -1,0 +1,6 @@
+@home_market_backend.API_HostAddress = http://localhost:5014
+
+GET {{home_market_backend.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
