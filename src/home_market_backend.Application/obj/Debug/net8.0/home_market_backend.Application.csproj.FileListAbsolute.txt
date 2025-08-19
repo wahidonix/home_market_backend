@@ -1,0 +1,16 @@
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/bin/Debug/net8.0/home_market_backend.Application.deps.json
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/bin/Debug/net8.0/home_market_backend.Application.dll
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/bin/Debug/net8.0/home_market_backend.Application.pdb
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/bin/Debug/net8.0/home_market_backend.Domain.dll
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/bin/Debug/net8.0/home_market_backend.Domain.pdb
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/home_market_backend.Application.csproj.AssemblyReference.cache
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/home_market_backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/home_market_backend.Application.AssemblyInfoInputs.cache
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/home_market_backend.Application.AssemblyInfo.cs
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/home_market_backend.Application.csproj.CoreCompileInputs.cache
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/home_market_backend.Application.sourcelink.json
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/home_mar.E7E2E617.Up2Date
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/home_market_backend.Application.dll
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/refint/home_market_backend.Application.dll
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/home_market_backend.Application.pdb
+/Users/alen/Desktop/home_market_backend/src/home_market_backend.Application/obj/Debug/net8.0/ref/home_market_backend.Application.dll
